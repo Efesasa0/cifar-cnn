@@ -13,3 +13,7 @@
 - **Project Insights**: The project achieved an accuracy of above 90% in training and 75% in testing. The report includes various visualizations such as loss and accuracy plots, a confusion matrix, and a batch of predicted vs. actual labels.
 
 _This project demonstrates the effectiveness of CNNs in image classification tasks, particularly in handling diverse datasets like CIFAR10. It showcases practical aspects of neural network design, training, and evaluation in a real-world dataset._
+
+Here are links to my other work in EE456
+1. Implemented with pytorch: [auto-encoder-maze](https://github.com/Efesasa0/auto-encoder-maze.git)
+2. Implemented with MatLAB[mlp-backprop](https://github.com/Efesasa0/mlp-backprop-two-moons.git)

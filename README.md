@@ -16,4 +16,4 @@ _This project demonstrates the effectiveness of CNNs in image classification tas
 
 Here are links to my other work in EE456
 1. Implemented with pytorch: [auto-encoder-maze](https://github.com/Efesasa0/auto-encoder-maze.git)
-2. Implemented with MatLAB[mlp-backprop](https://github.com/Efesasa0/mlp-backprop-two-moons.git)
+2. Implemented with MatLAB: [mlp-backprop](https://github.com/Efesasa0/mlp-backprop-two-moons.git)
